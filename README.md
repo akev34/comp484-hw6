@@ -1,2 +1,2 @@
 # comp484-hw6
-https://github.com/akev34/comp484-hw6
+https://akev34.github.io/comp484-hw6/
